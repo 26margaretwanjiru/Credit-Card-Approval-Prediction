@@ -21,8 +21,8 @@ Both data sets available here; https://www.kaggle.com/datasets/rikdifos/credit-c
 
 The objectives of the analysis are as follows:
 
-To explore the distribution and attributes of the general applicant information via data visualisations.
+1. To explore the distribution and attributes of the general applicant information via data visualisations.
 
-To illustrate the relationship between income and loan status.
+2. To illustrate the relationship between income and loan status.
 
-To demonstrate whether employment length period has an impact on loan status.
+3. To demonstrate whether employment length period has an impact on loan status.
