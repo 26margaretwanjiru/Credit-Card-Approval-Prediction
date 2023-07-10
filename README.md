@@ -1,5 +1,5 @@
-# Credit-Card-Approval-Prediction
-Credit Card Approval Prediction
+# Credit Card Exploratory Data Analysis
+Credit Card Exploratory Data Analysis
 
 Credit scoring is a widely used risk management technique in the financial sector. This exercise focused on exploring the distribution and relationships of the general applicant information.
 
